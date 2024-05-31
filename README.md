@@ -31,9 +31,9 @@
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
-3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
+1. [Angular Blog](https://github.com/Edmilt0n/angular-blog): Um blog feito com Angular para mostrar a importancia do Angular :)
+2. [Play Station Store](https://github.com/Edmilt0n/Angular__Playstatio-Store): Clone da Play Station Store Usando Angular :)
+3. [Candidates Auth](https://github.com/Edmilt0n/JAVA__Validar-candidatos): Algorítimo criado com JAVA para validação de candidatos em processo seletivo :)
 
 ## Vamos Criar Algo Incrível! 💫
 
@@ -41,7 +41,8 @@
 
 ## Vamos Conectar!
 
-[![Instagram](https://img.shields.io/badge/-Edmilt0n.p-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](linkedin.com/in/edmilton-souza-166309265/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=social&logo=instagram)](https://www.instagram.com/edmilt0n.p/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/edmilton-souza-166309265/)
+
 
 ![Edmilt0n GitHub stats](https://github-readme-stats.vercel.app/api?username=Edmilt0n\&rank_icon=percentile)
